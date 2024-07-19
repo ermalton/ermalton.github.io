@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ermalton.github.io/sitemap
+Sitemap: https://ermalton.github.io/app/sitemap
+Sitemap: https://ermalton.github.io/assets/sitemap
+Sitemap: https://ermalton.github.io/css/sitemap
+Sitemap: https://ermalton.github.io/includes/sitemap
+Sitemap: https://ermalton.github.io/item/sitemap
+Sitemap: https://ermalton.github.io/src/sitemap
